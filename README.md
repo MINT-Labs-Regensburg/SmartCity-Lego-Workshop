@@ -24,7 +24,7 @@ Wir haben aus dem 3D-Drucker Stadteilobjekte ausgedruckt und dafür uns bei [Thi
 
 ## Preparation
 Bereite den Raum so vor, dass Du Gruppentische für die einzelen Teams hast an denen sie bauen können. Es braucht einen großen Tisch für die Bautsteine an denen sich die Teilnehmenden bedienen können. 
-Zeichne ggf. Flipcharts vor oder baue Dir eine PowerPoint, um die einzelen Schritte an die Wand werfen zu können.
+Zeichne ggf. [Flipcharts](https://github.com/MINT-Labs-Regensburg/SmartCity-Lego-Workshop/blob/main/Fotodokumentation_FutureRegensburg_NaWo.pdf) vor oder baue Dir eine PowerPoint, um die einzelen Schritte an die Wand werfen zu können.
 
 ## Built
 
