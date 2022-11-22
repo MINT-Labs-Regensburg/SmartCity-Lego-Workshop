@@ -1,47 +1,16 @@
-# SolderCase
-a metal toolbox as an easy2built all-in-one soldering station. It has workplace lighting, solder fume exractor with filter, USB-C power dostribution for soldering irons like [Pinecil](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/) or TS80, space for tools and a desk pad.
-
-It all started with the idea of simplifying solder workshops for all kinds of human beings. [Timo](https://github.com/marove2000) from the [Binary Kitchen e.V.](https://www.binary-kitchen.de/) had some [nice ideas](https://www.timoschindler.de/die-loetkiste-ein-koffer-mit-vollstaendigem-loetarbeitsplatz/).
-
-- [Parts you have to buy](#Parts-you-have-to-buy)
-- [LaserCut Parts](#lasercut-parts)
-- [3D-printed Parts](#3d-printed-parts)
-- [Tools you need](#tools-you-need)
-- [Preparation](#preparation)
-- [Built](#built)
-- [Wooden parts](#wooden-parts)
-- [Electrical Installation](#electrical-installation)
-- [Metal Toolbox](#metal-toolbox)
-- [Finishing](#finishing)
-- [Next Step](#next-step)
-- [Credits](#credits)
-- [Copyright and Authorship](#copyright-and-authorship)
+# Lego-Workshop
+Ziel dieses Lego-Workshops ist es Kinder in einen Beteiligungsprozess zu integrieren. Theoretisch wäre das Konzept auch mit Erwachsenen durchführbar. Das coole an dem Konzept ist, dass die Meinung jeder Person durch Lego ausdruck findet. Die Teilnehmenden (TN) bauen nach einer Einführung ihre eigene perfekte smarte Stadt der Zukunft. Die Teilnehmenden werden Schritt für Schritt durch die verschiedenen Stufen der Bauphasen geleitet und am Ende gibt es eine große Smarte Stadt der Zukunft.
 
 
-
-<img src="images/SolderCase.gif" width=500px alt="This is a Case">
 
 ---
 
 ## Parts you have to buy
--> See the BoM.pdf or BoM.xlsx file
-
-
-## LaserCut Parts
-The insert for the metal toolbox is made of 3mm thick MDF wood plates (at least 570 x 500mm). The different colours stand for:
-
-- Black: Cut part (line)
-- Green: Engrave part (fill)
-- Red:   ignore
-
-Please adjust your laser cutter.
+- Eine Menge Lego oder anderer Klemmbausteine
 
 
 ## 3D-printed Parts
-The housing for the USB-PD converter can be found in the older "3Dprinted".
-Printed in PLA with 0.2mm layer. Printed with the Prusa Mini +.
-The cases for Pinecils was taken from https://www.thingiverse.com/thing:4571953.
-
+Wir haben aus dem 3D-Drucker Stadteilobjekte ausgedruckt und dafür uns bei [Thingiverse](https://www.thingiverse.com/search?q=church&page=1&type=things&sort=relevant) bedient. Diese 
 
 ## Tools you need
 - side cutter
@@ -54,14 +23,8 @@ The cases for Pinecils was taken from https://www.thingiverse.com/thing:4571953.
 
 
 ## Preparation
-Prepare the following wires with ferrules and cable lugs as shown in the picture below:
-- all parts can be found in the BoM.xlsx / BoM.pdf
-- [1] 15cm strand, 0,75mm^2, ferrule on one end and two (!) cable lugs (small) an the other
-- [2] 15cm twin strand, 0.75mm^2, ferrules on both strands on one end and cable lugs on the other (for the barrel connector)
-- [3] 15cm twin strand, 0.3mm^2, ferrule on only one end on the negative side (brown/black wire), and one cable lug on the positive side (red wire)
-- [4] 15cm twin strand, 0.75mm^2, ferrules on both strands on one end (for the uSB-PD converter)
-- [5] ferrule on negative side of the PC fan (brown/black wire) and cable lug on the positive side (red wire) (not shown in the picture)
-<img src="images/preparation.jpg" width=600px alt="prep">
+Bereite den Raum so vor, dass Du Gruppentische für die einzelen Teams hast an denen sie bauen können. Es braucht einen großen Tisch für die Bautsteine an denen sich die Teilnehmenden bedienen können. 
+Zeichne ggf. Flipcharts vor oder baue Dir eine PowerPoint, um die einzelen Schritte an die Wand werfen zu können.
 
 ## Built
 
@@ -108,16 +71,14 @@ Prepare the following wires with ferrules and cable lugs as shown in the picture
 - Check functionality of fan, LEDs, solder iron
 - Using double-sided adhesive tape, attach the remaining MDF-plate to the lit; this is used as a pad inside the lit for soldering
 
-## Next Step
-Five of these SolderCases fit perfectly in a standard sized Eurobox (400x600x300mm) with enough space for one extra box containing some special tools, spare parts, etc.
+
 
 
 ---
 
 ## Credits
-- Thanks to Exxess from the [Binary Kitchen e.V.](https://www.binary-kitchen.de/) for sharing the 3D-files
-- Special thanks to [Timo](https://github.com/marove2000) from the [Binary Kitchen e.V.](https://www.binary-kitchen.de/) for discussions, tests and design considerations - and for bringing up these nice, cheap red metal cases
+- Vielen Dank an [R_next](https://www.regensburg.de/r-next)für die gemeinsame Zusammenarbeit
 
 
 ## Copyright and Authorship
-This SolderCase is licenced under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [MINT-Labs Regensburg e.V.](https://www.mint-labs.de).
+ [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [MINT-Labs Regensburg e.V.](https://www.mint-labs.de).
